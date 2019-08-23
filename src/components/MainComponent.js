@@ -22,7 +22,7 @@ class Main extends Component {
       promotions: PROMOTIONS
     };
   }
-
+  
   render() {
     const HomePage = () => {
       return(
